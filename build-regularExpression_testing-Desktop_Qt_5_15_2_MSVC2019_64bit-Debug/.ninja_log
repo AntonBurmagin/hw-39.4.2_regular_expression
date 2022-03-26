@@ -1,0 +1,19 @@
+# ninja log v5
+8	1295	670030562	regularExpr_autogen/timestamp	f77c4af794254129
+8	1295	670030562	regularExpr_autogen/mocs_compilation.cpp	f77c4af794254129
+8	1295	670030562	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.2 regular expression/build-regularExpression_testing-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/regularExpr_autogen/timestamp	f77c4af794254129
+8	1295	670030562	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.2 regular expression/build-regularExpression_testing-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/regularExpr_autogen/mocs_compilation.cpp	f77c4af794254129
+1296	6420	670030568	CMakeFiles/regularExpr.dir/regularExpr_autogen/mocs_compilation.cpp.obj	206fe2be6857c6ca
+1315	7876	670030569	CMakeFiles/regularExpr.dir/mainwindow.cpp.obj	c2ab14ffc0bb7a2
+1306	8241	670030569	CMakeFiles/regularExpr.dir/main.cpp.obj	8766ea2fe31c5afd
+8242	10739	670030572	regularExpr.exe	1cee2a426d3303b8
+0	95	0	CMakeFiles/clean.additional	baedbe210acaa455
+95	152	0	clean	4b52aa8ad9c61460
+6	2191	670031000	regularExpr_autogen/timestamp	f77c4af794254129
+6	2191	670031000	regularExpr_autogen/mocs_compilation.cpp	f77c4af794254129
+6	2191	670031000	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.2 regular expression/build-regularExpression_testing-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/regularExpr_autogen/timestamp	f77c4af794254129
+6	2191	670031000	C:/Users/burma/Desktop/C++/HW/HW-39 added oportunities Qt/hw-39.4.2 regular expression/build-regularExpression_testing-Desktop_Qt_5_15_2_MSVC2019_64bit-Debug/regularExpr_autogen/mocs_compilation.cpp	f77c4af794254129
+2214	8259	670031006	CMakeFiles/regularExpr.dir/regularExpr_autogen/mocs_compilation.cpp.obj	206fe2be6857c6ca
+2223	8791	670031007	CMakeFiles/regularExpr.dir/mainwindow.cpp.obj	c2ab14ffc0bb7a2
+2196	8960	670031007	CMakeFiles/regularExpr.dir/main.cpp.obj	8766ea2fe31c5afd
+8961	10277	670031008	regularExpr.exe	1cee2a426d3303b8
